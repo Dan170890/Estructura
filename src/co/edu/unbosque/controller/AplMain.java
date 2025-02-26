@@ -6,5 +6,8 @@ public class AplMain {
 		Controller con = new Controller();
 	}
 //hola muchachos
+	
+	
+//	hola muchachos esto es de pichano
 	//dddd
 }
